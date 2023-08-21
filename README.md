@@ -1,2 +1,2 @@
 # C_Projects
-Some project on C language
+Some projects on C language
